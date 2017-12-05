@@ -1,4 +1,4 @@
-# payment-lib-yekta
+# Payment Lib.
 Zarinpal Payment SDK for Yekta Co.
 
 
