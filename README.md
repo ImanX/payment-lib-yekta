@@ -9,7 +9,7 @@ Zarinpal Payment SDK for Yekta Co.
  - Example :
  ```Java
             
-                String merchantID = "57a1943e-858e-11e7-a187-005056a205be"; //this ZarinPal merchantID 
+                String merchantID = "**********************"; //this ZarinPal merchantID 
                 long amount = 100; //this payment amount
                 String description = "test of pay"; //this payment description
 
