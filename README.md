@@ -4,7 +4,7 @@ Zarinpal Payment SDK for Yekta Co.
 
 - Need Library:
 ```Gradle
-   compile 'com.github.imanx:PaymentSDK:0.0.3'
+   compile 'com.github.imanx:PaymentSDK:0.0.4'
  ```
  - Example :
  ```Java
