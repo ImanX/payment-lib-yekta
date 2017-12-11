@@ -1,7 +1,7 @@
 # Payment Lib.
 Zarinpal Payment SDK for Yekta Co.
 
-#iOS
+# iOS
 - Need Framework:
 ```framework
  add to Project frameworks 'ZarinPalSDKPayment.framework'
@@ -65,7 +65,7 @@ class ViewController: UIViewController , ZarinPalPaymentDelegate {
 
 
 
-#Android
+# Android
 - Need Library:
 ```Gradle
    compile 'com.github.imanx:PaymentSDK:0.0.4'
